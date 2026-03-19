@@ -1,4 +1,5 @@
 import { Award, Cloud, Server, Building2, Globe, Boxes, TrendingUp } from "lucide-react";
+import type { LucideIcon } from "lucide-react";
 import { Card, CardContent } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
 
@@ -8,7 +9,7 @@ type Project = {
   description: string;
   achievements: string[];
   tech: string[];
-  icon: any;
+  icon: LucideIcon;
 };
 
 const Projects = () => {
