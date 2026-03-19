@@ -19,8 +19,9 @@ const certifications: Certification[] = [
     issuer: "Amazon Web Services (AWS)",
     issued: "Feb 2026",
     expires: "Feb 2029",
-    credentialId: "d9989bb880ef4920bd7152275055fc96",
+    credentialId: "2003490b-128f-41ca-9dc4-a6af5631c149",
     code: "SAA-CO3",
+    credentialUrl: "https://www.credly.com/badges/2003490b-128f-41ca-9dc4-a6af5631c149",
   },
   {
     name: "AWS Certified Cloud Practitioner (CLF-C02)",
